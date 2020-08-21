@@ -5,6 +5,5 @@ Trimestre, Tareas, Clases, Notas, y asignaciones de las materias
 
 - Algebra Lineal
 - Matematica Discreta
-- Electronica Basica
 - Ingenieria de Software I
 #
