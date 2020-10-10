@@ -1,4 +1,4 @@
-**Esdisticas Y Probabilidades.
+**Esdisticas Y Probabilidades.**
 
 - Grupo: 2020-4-FGM-207-Virtual-1
 
@@ -14,7 +14,7 @@
 
 - Clave: 8734245110
 
-**Ingenieria de Software II
+**Ingenieria de Software II**
 
 - Grupo: 2020-4-ISW-202
 
@@ -27,7 +27,7 @@
 - Grupo de Waasaap: https://chat.whatsapp.com/DSxeUefmWvfH1DBoVVaKuJ
 
 
-**English for Computer Systems
+**English for Computer Systems**
 
 - Grupo: 2020-4-FGL-201-Virtual201-1
 
@@ -39,7 +39,7 @@
 
 - Grupo de Waasaap: https://chat.whatsapp.com/D74HJu29FDg3UqV81WZK0a
 
-**Electronica Basica
+**Electronica Basica**
 
 - Grupo: 2020-4-FGI-209-Virtual201-1
 
