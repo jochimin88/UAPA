@@ -1,4 +1,6 @@
-Grupo: 207- virtual
+Esdisticas Y Probabilidades.
+
+- Grupo: 207- virtual
 
 - Facilitador: Basilio Nunez
 
